@@ -17,7 +17,7 @@ Este repositório contém um programa em Python para o gerenciamento de orçamen
    https://github.com/BrunoGondran2023/orcamento_simples.git
 
 2. Instale as dependências necessárias:
-
+   ```bash
    pip install pandas
 
 
