@@ -14,7 +14,7 @@ Este repositório contém um programa em Python para o gerenciamento de orçamen
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/BrunoGondran2023/orcamento_simples.git
+   https://github.com/BrunoGondran2023/orcamento_simples.git
 
 2. Instale as dependências necessárias:
 
